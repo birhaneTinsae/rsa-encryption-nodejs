@@ -1,0 +1,20 @@
+{
+  "name": "rsa-encryption-sample",
+  "version": "1.0.0",
+  "description": "Ethio telecom telebirr encryption",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birhaneTinsae/rsa-encryption-nodejs.git"
+  },
+  "author": "Birhane Tinsae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birhaneTinsae/rsa-encryption-nodejs/issues"
+  },
+  "homepage": "https://github.com/birhaneTinsae/rsa-encryption-nodejs#readme"
+}
